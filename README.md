@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm HALA</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hala272-prog" alt="hala272-prog" /></a> </p>
 
 - 🌱 I’m currently learning **django , python advanced devloppement**
 
