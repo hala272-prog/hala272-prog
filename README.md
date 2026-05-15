@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm HALA</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-
 - 🌱 I’m currently learning **django , python advanced devloppement**
 
 - 💬 Ask me about **flask , python , c , java , SQL , databases , oop**
@@ -10,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/https://www.instagram.com/hal.a272/saved/?__pwa=1#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hal.a272/saved/?__pwa=1#" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
