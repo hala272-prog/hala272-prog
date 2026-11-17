@@ -5,14 +5,10 @@ I'm a Software Engineering student interested in software development, Artificia
 I'm currently learning and building projects around:
 
 - 💻 Software Engineering
-- 🤖 AI Agents
-- ⚙️ Workflow Automation
-- 🔗 APIs & Integrations
-- 🧩 n8n
-
+- 🤖  AI & Automation
 ## Currently Learning
 
-I'm exploring how AI Agents can be connected to real-world workflows and applications using tools such as n8n, APIs, and automation platforms.
+I'm exploring how  AI Automation can be connected to real-world workflows and applications .
 
 At the same time, I'm strengthening my software engineering foundations through university studies and personal projects.
 
@@ -24,8 +20,6 @@ My projects and experiments focus on:
 
 - AI-powered workflows
 - Workflow automation
-- API integrations
-- Python development
 - Software engineering concepts
 
 ## Goals
